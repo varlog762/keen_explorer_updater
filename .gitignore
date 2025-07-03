@@ -1,0 +1,23 @@
+# Виртуальное окружение
+/venv/
+/.venv/
+
+# Кэш и служебные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Служебные файлы IDE
+.idea/
+.vscode/
+
+# Файлы сборки и дистрибуции
+/build/
+/dist/
+*.egg-info/
+
+# Отчеты о покрытии тестами и кэш pytest
+.pytest_cache/
+.coverage
+htmlcov/
